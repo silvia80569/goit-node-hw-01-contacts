@@ -25,19 +25,23 @@ Pentru a utiliza aplicația, deschide linia de comandă și rulează comenzile c
    ```bash
    node index.js --action get --id <id>
   
-4. **Adaugarea unui contact nuu**
+3. **Adaugarea unui contact nou**
   Pentru a adăuga un contact, furnizează numele, emailul și numărul de telefon al contactului. Exemplu de comandă:
   node index.js --action add --name "Mango" --email "mango@gmail.com" --phone "322-22-22"
 
-6. **Ștergerea unui contact**
+4. **Ștergerea unui contact**
   Pentru a șterge un contact, furnizează ID-ul acestuia. Exemplu de comandă:
   node index.js --action remove --id <id>
 
 ## Exemple
 
 
-1. ![Action list](https://i.ibb.co/vQ4n8Nx/Action-list.png)
-2. ![Action get](https://i.ibb.co/LhJxDjj/Action-get.png)
-3. ![Action add](https://i.ibb.co/NrBnbGD/Action-add.png)
-4. ![Action remove](https://i.ibb.co/J5rCQSs/Action-remove.png) 
+1. **Listarea tuturor contactelor**
+ ![Action list](https://i.ibb.co/vQ4n8Nx/Action-list.png)
+2. **Obținerea unui contact după ID**
+ ![Action get](https://i.ibb.co/LhJxDjj/Action-get.png)
+3. **Adaugarea unui contact nou**
+ ![Action add](https://i.ibb.co/NrBnbGD/Action-add.png)
+4. **Ștergerea unui contact**
+ ![Action remove](https://i.ibb.co/J5rCQSs/Action-remove.png) 
 
