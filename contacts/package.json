@@ -21,12 +21,13 @@
   },
   "contributors": [],
   "scripts": {
-    "start":"node index.js",
-    "start:dev":"nodemon index.js",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
     "dev": "",
     "test": ""
   },
   "dependencies": {
+    "commander": "^12.1.0",
     "nodemon": "^3.1.7"
   }
 }
