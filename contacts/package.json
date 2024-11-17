@@ -1,0 +1,32 @@
+{
+  "name": "goit-node-hw-01-contacts",
+  "version": "1.0.0",
+  "description": "db contacts",
+  "main": "index.js",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "https://github.com/silvia80569/goit-node-hw-01-contacts#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silvia80569/goit-node-hw-01-contacts.git"
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "silvia80569"
+  },
+  "contributors": [],
+  "scripts": {
+    "start":"node index.js",
+    "start:dev":"nodemon index.js",
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
